@@ -5,3 +5,4 @@ bananas
 oranges 
 cherries 
 strawberries 
+cereal
